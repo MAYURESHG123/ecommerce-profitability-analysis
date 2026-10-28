@@ -109,7 +109,6 @@ The one-page dashboard provides an interactive view of overall and product-level
 
 ![E-Commerce Profitability Dashboard](images/E-Commerce_Profitability_Dashboard.png)
 
-_Add a screenshot of the completed Power BI dashboard to the repository to display it here._
 
 ## Key Findings
 
@@ -160,12 +159,11 @@ ecommerce-profitability-analysis/
 ├── sql/
 │   └── profitability_analysis.sql
 ├── powerbi/
-│   └── ecommerce_profitability_dashboard.pbix
+│   └── Ecommerce Profitability Dashboard.pbix
 └── images/
-    └── dashboard.png
+    └── E-Commerce_Profitability_Dashboard.png
 ```
 
-_File names above are a suggested structure; include only files that are actually present in your repository._
 
 ## How to Explore the Project
 
@@ -175,7 +173,6 @@ _File names above are a suggested structure; include only files that are actuall
 4. Configure the MySQL connection if prompted.
 5. Use the date, category, and product slicers to explore the dashboard.
 
-> The exact import steps depend on how the dataset files are packaged. Do not commit database passwords or other credentials to GitHub.
 
 ## Limitations
 
